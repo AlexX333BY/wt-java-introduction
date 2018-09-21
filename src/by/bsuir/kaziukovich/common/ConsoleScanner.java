@@ -1,4 +1,4 @@
-package by.bsuir.kaziukovich;
+package by.bsuir.kaziukovich.common;
 
 import java.util.Scanner;
 

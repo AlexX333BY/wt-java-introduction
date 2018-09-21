@@ -1,6 +1,6 @@
-package by.bsuir.kaziukovich.task1.test;
+package by.bsuir.kaziukovich.task1.formula;
 
-import by.bsuir.kaziukovich.task1.FormulaCounter;
+import by.bsuir.kaziukovich.task1.formula.FormulaCounter;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import java.util.Random;

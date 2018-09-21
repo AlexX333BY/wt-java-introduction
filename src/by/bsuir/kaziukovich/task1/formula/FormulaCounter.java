@@ -1,4 +1,4 @@
-package by.bsuir.kaziukovich.task1;
+package by.bsuir.kaziukovich.task1.formula;
 
 /**
  * Class for counting formula value from first task

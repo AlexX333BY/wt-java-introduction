@@ -1,7 +1,7 @@
 package by.bsuir.kaziukovich.task1.runner;
 
-import by.bsuir.kaziukovich.ConsoleScanner;
-import by.bsuir.kaziukovich.task1.FormulaCounter;
+import by.bsuir.kaziukovich.common.ConsoleScanner;
+import by.bsuir.kaziukovich.task1.formula.FormulaCounter;
 
 /**
  * Runner to demonstrate task 1 completion
