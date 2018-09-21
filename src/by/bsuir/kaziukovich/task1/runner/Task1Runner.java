@@ -29,5 +29,8 @@ public class Task1Runner {
         }
     }
 
+    /**
+     * Constructor to avoid object creation
+     */
     private Task1Runner() {}
 }

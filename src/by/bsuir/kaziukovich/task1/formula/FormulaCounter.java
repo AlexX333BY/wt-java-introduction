@@ -23,5 +23,8 @@ public class FormulaCounter {
         }
     }
 
+    /**
+     * Constructor to avoid object creation
+     */
     private FormulaCounter() {}
 }

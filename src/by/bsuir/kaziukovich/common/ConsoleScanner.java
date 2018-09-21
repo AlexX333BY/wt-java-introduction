@@ -19,5 +19,8 @@ public class ConsoleScanner {
         return consoleScanner.nextDouble();
     }
 
+    /**
+     * Constructor to avoid object creation
+     */
     private ConsoleScanner() {}
 }
