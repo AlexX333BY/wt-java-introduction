@@ -20,6 +20,19 @@ public class ConsoleScanner {
     }
 
     /**
+     * Get int value from console
+     * @return First int value
+     */
+    public static int getInt() {
+        Scanner consoleScanner = new Scanner(System.in);
+
+        while (!consoleScanner.hasNextInt()) {
+            consoleScanner.next();
+        }
+        return consoleScanner.nextInt();
+    }
+
+    /**
      * Constructor to avoid object creation
      */
     private ConsoleScanner() {}
