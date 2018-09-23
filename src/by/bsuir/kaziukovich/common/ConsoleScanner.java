@@ -32,6 +32,15 @@ public class ConsoleScanner {
         return consoleScanner.nextInt();
     }
 
+    public static int getNonNegativeInt() {
+        int result;
+
+        do {
+            result = getInt();
+        } while (result < 0);
+        return result;
+    }
+
     /**
      * Constructor to avoid object creation
      */
