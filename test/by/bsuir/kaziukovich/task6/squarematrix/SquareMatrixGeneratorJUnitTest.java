@@ -3,10 +3,13 @@ package by.bsuir.kaziukovich.task6.squarematrix;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
+/**
+ * Tests for SquareMatrixGenerator class
+ */
 class SquareMatrixGeneratorJUnitTest {
-
+    /**
+     * Tests for generate() method
+     */
     @Test
     void generate() {
         double[][] expectedResult;
