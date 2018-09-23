@@ -4,8 +4,13 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import java.util.ArrayList;
 
+/**
+ * Tests for PrimeNumberDecisioner class
+ */
 class PrimeNumbersDecisionerJUnitTest {
-
+    /**
+     * Tests for hasArrayPrimenumbers() method
+     */
     @Test
     void hasArrayPrimeNumbers() {
         ArrayList<Integer> indexes = new ArrayList<>();
