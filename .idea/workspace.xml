@@ -4,10 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8723ff37-3855-40bf-809d-81b6f9a72c02" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/common/ConsoleScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/common/ConsoleScanner.java" afterDir="false" />
-    </list>
+    <list default="true" id="8723ff37-3855-40bf-809d-81b6f9a72c02" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,31 +20,31 @@
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.19" value="2" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="15" />
+          <entry key="java" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="15" />
+          <entry key="JAVA" value="25" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="5" />
-          <entry key="java" value="8993" />
+          <entry key="dummy" value="17" />
+          <entry key="java" value="14765" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8993" />
-          <entry key="PLAIN_TEXT" value="5" />
+          <entry key="JAVA" value="14765" />
+          <entry key="PLAIN_TEXT" value="17" />
         </counts>
       </usages-collector>
     </session>
@@ -55,19 +52,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/common/ConsoleScanner.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/tangent/StepTangentCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task1/formula/FormulaCounterJUnitTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="20" column="80" lean-forward="true" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="80" />
+            <state relative-caret-position="160">
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -76,75 +64,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/figure/Point.java">
+        <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task3/tangent/StepTangentCounterJUnitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="653">
-              <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
+            <state relative-caret-position="340">
+              <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
               <folding>
-                <element signature="e#320#321#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#455#456#0" expanded="true" />
-                <element signature="e#481#482#0" expanded="true" />
-                <element signature="e#585#586#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-                <element signature="e#710#711#0" expanded="true" />
-                <element signature="e#734#735#0" expanded="true" />
-                <element signature="e#1336#1337#0" expanded="true" />
-                <element signature="e#1377#1378#0" expanded="true" />
-                <element signature="e#1579#1580#0" expanded="true" />
-                <element signature="e#1649#1650#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/runner/Task3Runner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/tablebuilder/TwoColumnTableBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/runner/Task2Runner.java">
+        <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task3/tablebuilder/TwoColumnTableBuilderJUnitTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1500">
-              <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+            <state relative-caret-position="280">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/figure/PointInFigureDecisioner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task2/figure/PointInFigureDecisionerJUnitTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/figure/Rectangle.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-347">
-              <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
-              <folding>
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#475#476#0" expanded="true" />
-                <element signature="e#929#930#0" expanded="true" />
-                <element signature="e#958#959#0" expanded="true" />
-                <element signature="e#1464#1465#0" expanded="true" />
-                <element signature="e#1500#1501#0" expanded="true" />
-                <element signature="e#2193#2194#0" expanded="true" />
-                <element signature="e#2260#2261#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -184,6 +142,15 @@
         <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task2/rectangles/PointInFigureDecisionerJUnitTest.java" />
         <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task2/figure/PointInFigureDecisionerJUnitTest.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/runner/Task2Runner.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/formula/StepFormulaCounter.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/tangent/StepFormulaCounter.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/tangent/TwoRowTableBuilder.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/tangent/StepTangentCounter.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/runner/Task3Runner.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/tablebuilder/TwoColumnTableBuilder.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task3/tablebuilder/TwoColumnTableBuilderTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task3/tablebuilder/TwoColumnTableBuilderJUnitTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task3/tangent/StepTangentCounterJUnitTest.java" />
       </list>
     </option>
   </component>
@@ -302,6 +269,63 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Tests'; set:Tests; class com.intellij.psi.search.scope.TestsScope">
+          <expand>
+            <path>
+              <item name="wt-java-introduction" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="wt-java-introduction" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="wt-java-introduction" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="wt-java-introduction" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="wt-java-introduction" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="wt-java-introduction" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="wt-java-introduction" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="wt-java-introduction" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bsuir" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="wt-java-introduction" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="wt-java-introduction" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bsuir" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kaziukovich" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="wt-java-introduction" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="wt-java-introduction" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bsuir" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kaziukovich" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="task3" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="wt-java-introduction" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="wt-java-introduction" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="test" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="by" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="bsuir" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="kaziukovich" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="task3" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="tablebuilder" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -368,6 +392,29 @@
             <path>
               <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
               <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
+              <item name="tablebuilder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
+              <item name="tangent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -381,21 +428,20 @@
               <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-              <item name="formula" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
               <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-              <item name="figure" type="462c0819:PsiDirectoryNode" />
+              <item name="task3" type="462c0819:PsiDirectoryNode" />
+              <item name="tablebuilder" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -404,7 +450,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537651650112" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537710122140" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -419,6 +465,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.bsuir.kaziukovich.task3.tablebuilder" />
+      <recent name="by.bsuir.kaziukovich.task3.tangent" />
       <recent name="by.bsuir.kaziukovich.task2.rectangles" />
       <recent name="by.bsuir.kaziukovich.task1.formula" />
       <recent name="by.bsuir.kaziukovich.task1.test" />
@@ -444,32 +492,6 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.All in wt-java-introduction">
-    <configuration name="Task1Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task1.runner.Task1Runner" />
-      <module name="wt-java-introduction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.bsuir.kaziukovich.task1.runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task2Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task2.runner.Task2Runner" />
-      <module name="wt-java-introduction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.bsuir.kaziukovich.task2.runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="All in wt-java-introduction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="wt-java-introduction" />
       <option name="PACKAGE_NAME" value="" />
@@ -478,48 +500,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PointInFigureDecisionerJUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StepTangentCounterJUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="wt-java-introduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bsuir.kaziukovich.task2.figure.*" />
+          <option name="PATTERN" value="by.bsuir.kaziukovich.task3.tangent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task2.figure" />
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task2.figure.PointInFigureDecisionerJUnitTest" />
+      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task3.tangent" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task3.tangent.StepTangentCounterJUnitTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="by.bsuir.kaziukovich.task2.figure in wt-java-introduction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StepTangentCounterJUnitTest.count" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="wt-java-introduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bsuir.kaziukovich.task2.figure.*" />
+          <option name="PATTERN" value="by.bsuir.kaziukovich.task3.tangent.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task2.figure" />
+      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task3.tangent" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task3.tangent.StepTangentCounterJUnitTest" />
+      <option name="METHOD_NAME" value="count" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoColumnTableBuilderJUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wt-java-introduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.kaziukovich.task3.tablebuilder.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task3.tablebuilder" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task3.tablebuilder.TwoColumnTableBuilderJUnitTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="by.bsuir.kaziukovich.task3.tangent in wt-java-introduction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wt-java-introduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.kaziukovich.task3.tangent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task3.tangent" />
       <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task1Runner" />
-      <item itemvalue="Application.Task2Runner" />
-      <item itemvalue="JUnit.by.bsuir.kaziukovich.task2.figure in wt-java-introduction" />
-      <item itemvalue="JUnit.PointInFigureDecisionerJUnitTest" />
+      <item itemvalue="JUnit.by.bsuir.kaziukovich.task3.tangent in wt-java-introduction" />
+      <item itemvalue="JUnit.StepTangentCounterJUnitTest" />
+      <item itemvalue="JUnit.StepTangentCounterJUnitTest.count" />
+      <item itemvalue="JUnit.TwoColumnTableBuilderJUnitTest" />
       <item itemvalue="JUnit.All in wt-java-introduction" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.All in wt-java-introduction" />
-        <item itemvalue="JUnit.PointInFigureDecisionerJUnitTest" />
-        <item itemvalue="JUnit.by.bsuir.kaziukovich.task2.figure in wt-java-introduction" />
-        <item itemvalue="Application.Task2Runner" />
-        <item itemvalue="Application.Task1Runner" />
+        <item itemvalue="JUnit.TwoColumnTableBuilderJUnitTest" />
+        <item itemvalue="JUnit.StepTangentCounterJUnitTest" />
+        <item itemvalue="JUnit.StepTangentCounterJUnitTest.count" />
+        <item itemvalue="JUnit.by.bsuir.kaziukovich.task3.tangent in wt-java-introduction" />
       </list>
     </recent_temporary>
   </component>
@@ -538,31 +590,11 @@
       <workItem from="1537479921638" duration="2304000" />
       <workItem from="1537555963186" duration="2878000" />
       <workItem from="1537642263301" duration="9387000" />
+      <workItem from="1537699991675" duration="10131000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FormulaCounterJUnitTest_count - 2018.09.21 at 00h 58m 49s.xml">
-      <configuration name="FormulaCounterJUnitTest.count" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FormulaCounterJUnitTest_count - 2018.09.21 at 00h 59m 17s.xml">
-      <configuration name="FormulaCounterJUnitTest.count" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FormulaCounterJUnitTest_count - 2018.09.21 at 01h 03m 20s.xml">
-      <configuration name="FormulaCounterJUnitTest.count" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FormulaCounterJUnitTest_count - 2018.09.21 at 01h 14m 18s.xml">
-      <configuration name="FormulaCounterJUnitTest.count" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_wt-java-introduction - 2018.09.21 at 22h 09m 13s.xml">
-      <configuration name="All in wt-java-introduction" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FormulaCounterJUnitTest - 2018.09.21 at 22h 31m 59s.xml">
-      <configuration name="FormulaCounterJUnitTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="by_bsuir_kaziukovich_task2_rectangles_in_wt-java-introduction - 2018.09.23 at 00h 19m 30s.xml">
-      <configuration name="by.bsuir.kaziukovich.task2.rectangles in wt-java-introduction" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PointInFigureDecisionerJUnitTest - 2018.09.23 at 00h 21m 18s.xml">
       <configuration name="PointInFigureDecisionerJUnitTest" configurationId="JUnit" />
     </history-entry>
@@ -572,15 +604,36 @@
     <history-entry file="All_in_wt-java-introduction - 2018.09.23 at 00h 25m 59s.xml">
       <configuration name="All in wt-java-introduction" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="by_bsuir_kaziukovich_task3_tangent_in_wt-java-introduction - 2018.09.23 at 16h 12m 04s.xml">
+      <configuration name="by.bsuir.kaziukovich.task3.tangent in wt-java-introduction" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StepTangentCounterJUnitTest - 2018.09.23 at 16h 23m 53s.xml">
+      <configuration name="StepTangentCounterJUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StepTangentCounterJUnitTest_count - 2018.09.23 at 16h 24m 19s.xml">
+      <configuration name="StepTangentCounterJUnitTest.count" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StepTangentCounterJUnitTest_count - 2018.09.23 at 16h 25m 15s.xml">
+      <configuration name="StepTangentCounterJUnitTest.count" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StepTangentCounterJUnitTest - 2018.09.23 at 16h 25m 27s.xml">
+      <configuration name="StepTangentCounterJUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TwoColumnTableBuilderJUnitTest - 2018.09.23 at 16h 37m 08s.xml">
+      <configuration name="TwoColumnTableBuilderJUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_wt-java-introduction - 2018.09.23 at 16h 42m 03s.xml">
+      <configuration name="All in wt-java-introduction" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19112000" />
+    <option name="totallyTimeSpent" value="29243000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="2560" height="1413" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13831478" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13950716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -589,7 +642,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32970452" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.1718507" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.1718507" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -652,13 +705,6 @@
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task1/tests/FormulaCounterJUnitTests.java" />
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task1/formula/FormulaCounterTest.java" />
     <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task1/formula/FormulaCounterTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task1/formula/FormulaCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task1/runner/Task1Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -669,65 +715,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/common/ConsoleScanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task1/formula/FormulaCounterJUnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="80" lean-forward="true" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="80" />
+        <state relative-caret-position="380">
+          <caret line="20" column="80" selection-start-line="20" selection-start-column="80" selection-end-line="20" selection-end-column="80" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/figure/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-347">
-          <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
-          <folding>
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#929#930#0" expanded="true" />
-            <element signature="e#958#959#0" expanded="true" />
-            <element signature="e#1464#1465#0" expanded="true" />
-            <element signature="e#1500#1501#0" expanded="true" />
-            <element signature="e#2193#2194#0" expanded="true" />
-            <element signature="e#2260#2261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/figure/PointInFigureDecisioner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/figure/Point.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="653">
+        <state relative-caret-position="1460">
           <caret line="85" column="5" selection-start-line="85" selection-start-column="5" selection-end-line="85" selection-end-column="5" />
-          <folding>
-            <element signature="e#320#321#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#455#456#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-            <element signature="e#1336#1337#0" expanded="true" />
-            <element signature="e#1377#1378#0" expanded="true" />
-            <element signature="e#1579#1580#0" expanded="true" />
-            <element signature="e#1649#1650#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -741,10 +742,85 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/figure/PointInFigureDecisioner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/figure/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-86">
+          <caret line="76" column="9" selection-start-line="76" selection-start-column="9" selection-end-line="76" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task1/formula/FormulaCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/runner/Task2Runner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1500">
-          <caret line="75" column="20" selection-start-line="75" selection-start-column="20" selection-end-line="75" selection-end-column="20" />
+        <state relative-caret-position="1134">
+          <caret line="57" column="4" lean-forward="true" selection-start-line="57" selection-start-column="4" selection-end-line="60" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/common/ConsoleScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/runner/Task3Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="69" selection-start-line="4" selection-start-column="69" selection-end-line="4" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/tangent/StepTangentCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/tablebuilder/TwoColumnTableBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task3/tangent/StepTangentCounterJUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task3/tablebuilder/TwoColumnTableBuilderJUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
