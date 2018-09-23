@@ -32,6 +32,10 @@ public class ConsoleScanner {
         return consoleScanner.nextInt();
     }
 
+    /**
+     * Get non-negative int from console
+     * @return First non-negative int value
+     */
     public static int getNonNegativeInt() {
         int result;
 
