@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8723ff37-3855-40bf-809d-81b6f9a72c02" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,24 +32,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="56" />
+          <entry key="java" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="56" />
+          <entry key="JAVA" value="61" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="17" />
-          <entry key="java" value="33611" />
+          <entry key="dummy" value="18" />
+          <entry key="java" value="35380" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="33611" />
-          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="JAVA" value="35380" />
+          <entry key="PLAIN_TEXT" value="18" />
         </counts>
       </usages-collector>
     </session>
@@ -59,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/common/ConsoleScanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="708">
+            <state relative-caret-position="-27">
               <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
                 <element signature="e#1473#1474#0" expanded="true" />
@@ -70,23 +70,31 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task5/subsequence/SubSequenceExtractor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="834">
-              <caret line="73" column="40" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+            <state relative-caret-position="100">
+              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task5/subsequence/SubSequenceExtractorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
               <folding>
-                <element signature="e#1567#1568#0" expanded="true" />
-                <element signature="e#1620#1621#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/runner/Task12Runner.java">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task5/runner/Runner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="813">
-              <caret line="52" column="60" lean-forward="true" selection-start-line="52" selection-start-column="60" selection-end-line="52" selection-end-column="60" />
+            <state relative-caret-position="260">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,8 +108,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -111,10 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task1/tests/FormulaCounterUnitTests.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task1/tests/FormulaCounterJUnitTests.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/ConsoleScanner.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task1/FormulaCounter.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task1/test/FormulaCounterJUnitTest.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task1/formula/FormulaCounterTest.java" />
         <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task1/formula/FormulaCounterTest.java" />
@@ -162,6 +166,10 @@
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/programmerbook/ProgrammerBook.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/runner/Task12Runner.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task5/subsequence/SubsequenceExtractor.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task5/subsequence/SubSequenceExtractor.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task5/runner/Runner.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task5/subsequence/SubSequenceExtractorTest.java" />
       </list>
     </option>
   </component>
@@ -171,7 +179,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="27" />
     <option name="width" value="1280" />
     <option name="height" value="1413" />
@@ -355,51 +363,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-              <item name="task2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-              <item name="task2" type="462c0819:PsiDirectoryNode" />
-              <item name="figure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-              <item name="task12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-              <item name="task12" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-              <item name="task12" type="462c0819:PsiDirectoryNode" />
-              <item name="runner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-              <item name="task13" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -412,7 +375,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538328844656" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538331837051" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -427,11 +390,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.bsuir.kaziukovich.task5.subsequence" />
       <recent name="by.bsuir.kaziukovich.task9.basketanalysis" />
       <recent name="by.bsuir.kaziukovich.task9.basketball" />
       <recent name="by.bsuir.kaziukovich.task6.squarematrix" />
       <recent name="by.bsuir.kaziukovich.task4.primenumbers" />
-      <recent name="by.bsuir.kaziukovich.task3.tablebuilder" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="by.bsuir.kaziukovich.task1.formula" />
@@ -453,7 +416,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task13Runner">
+  <component name="RunManager" selected="JUnit.SubSequenceExtractorTest">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task5.runner.Runner" />
+      <module name="wt-java-introduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.kaziukovich.task5.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task12Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task12.runner.Task12Runner" />
       <module name="wt-java-introduction" />
@@ -493,62 +469,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasketAnalyzerJUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SubSequenceExtractorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="wt-java-introduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bsuir.kaziukovich.task9.basketanalysis.*" />
+          <option name="PATTERN" value="by.bsuir.kaziukovich.task5.subsequence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task9.basketanalysis" />
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task9.basketanalysis.BasketAnalyzerJUnitTest" />
+      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task5.subsequence" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task5.subsequence.SubSequenceExtractorTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BasketJUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SubSequenceExtractorTest.getLeastAmountToExtract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="wt-java-introduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bsuir.kaziukovich.task9.basketball.*" />
+          <option name="PATTERN" value="by.bsuir.kaziukovich.task5.subsequence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task9.basketball" />
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task9.basketball.BasketJUnitTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="by.bsuir.kaziukovich.task9 in wt-java-introduction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="wt-java-introduction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.bsuir.kaziukovich.task9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task9" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task5.subsequence" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task5.subsequence.SubSequenceExtractorTest" />
+      <option name="METHOD_NAME" value="getLeastAmountToExtract" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.BasketJUnitTest" />
-      <item itemvalue="JUnit.BasketAnalyzerJUnitTest" />
-      <item itemvalue="JUnit.by.bsuir.kaziukovich.task9 in wt-java-introduction" />
       <item itemvalue="Application.Task12Runner" />
       <item itemvalue="Application.Task13Runner" />
+      <item itemvalue="Application.Runner" />
+      <item itemvalue="JUnit.SubSequenceExtractorTest.getLeastAmountToExtract" />
+      <item itemvalue="JUnit.SubSequenceExtractorTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SubSequenceExtractorTest" />
+        <item itemvalue="JUnit.SubSequenceExtractorTest.getLeastAmountToExtract" />
+        <item itemvalue="Application.Runner" />
         <item itemvalue="Application.Task13Runner" />
         <item itemvalue="Application.Task12Runner" />
-        <item itemvalue="JUnit.by.bsuir.kaziukovich.task9 in wt-java-introduction" />
-        <item itemvalue="JUnit.BasketAnalyzerJUnitTest" />
-        <item itemvalue="JUnit.BasketJUnitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -572,17 +536,11 @@
       <workItem from="1537721012361" duration="2146000" />
       <workItem from="1537726103474" duration="8285000" />
       <workItem from="1538315335433" duration="1322000" />
-      <workItem from="1538317671026" duration="11234000" />
+      <workItem from="1538317671026" duration="14063000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SquareMatrixGeneratorJUnitTest_generate - 2018.09.23 at 20h 14m 22s.xml">
-      <configuration name="SquareMatrixGeneratorJUnitTest.generate" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SquareMatrixGeneratorJUnitTest_generate - 2018.09.23 at 20h 15m 49s.xml">
-      <configuration name="SquareMatrixGeneratorJUnitTest.generate" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SquareMatrixGeneratorJUnitTest_generate - 2018.09.23 at 20h 16m 23s.xml">
       <configuration name="SquareMatrixGeneratorJUnitTest.generate" configurationId="JUnit" />
     </history-entry>
@@ -607,15 +565,20 @@
     <history-entry file="by_bsuir_kaziukovich_task9_in_wt-java-introduction - 2018.09.30 at 19h 12m 04s.xml">
       <configuration name="by.bsuir.kaziukovich.task9 in wt-java-introduction" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SubSequenceExtractorTest_getLeastAmountToExtract - 2018.09.30 at 21h 22m 05s.xml">
+      <configuration name="SubSequenceExtractorTest.getLeastAmountToExtract" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubSequenceExtractorTest - 2018.09.30 at 21h 23m 58s.xml">
+      <configuration name="SubSequenceExtractorTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60131000" />
+    <option name="totallyTimeSpent" value="62960000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="27" width="1280" height="1413" extended-state="4" />
-    <editor active="true" />
+    <frame x="0" y="27" width="2560" height="1413" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2985437" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14666137" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -632,7 +595,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32970452" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49880764" visible="true" weight="0.20684293" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49880764" visible="true" weight="0.20684293" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5011924" side_tool="true" weight="0.20684293" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.13452566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -845,13 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/runner/Task2Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="998">
-          <caret line="57" column="4" lean-forward="true" selection-start-line="57" selection-start-column="4" selection-end-line="60" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task9/runner/Task9Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="460">
@@ -974,17 +930,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/common/ConsoleScanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="708">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="e#1473#1474#0" expanded="true" />
-            <element signature="e#1518#1519#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/runner/Task12Runner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="813">
@@ -997,12 +942,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="834">
-          <caret line="73" column="40" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+        <state relative-caret-position="2060">
+          <caret line="105" column="27" lean-forward="true" selection-start-line="105" selection-start-column="27" selection-end-line="105" selection-end-column="27" />
           <folding>
             <element signature="e#1567#1568#0" expanded="true" />
             <element signature="e#1620#1621#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task5/runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/runner/Task2Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="57" column="4" lean-forward="true" selection-start-line="57" selection-start-column="4" selection-end-line="60" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/common/ConsoleScanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+          <folding>
+            <element signature="e#1473#1474#0" expanded="true" />
+            <element signature="e#1518#1519#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task5/runner/Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task5/subsequence/SubSequenceExtractorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task5/subsequence/SubSequenceExtractor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
