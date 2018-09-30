@@ -6,7 +6,7 @@ import by.bsuir.kaziukovich.task5.subsequence.SubSequenceExtractor;
 /**
  * Class to show implementation of task 5
  */
-public class Runner {
+public class Task5Runner {
     /**
      * Gets sequence from console
      * @return Inputted sequence
@@ -38,5 +38,5 @@ public class Runner {
     /**
      * Private constructor to prevent object creation
      */
-    private Runner() {}
+    private Task5Runner() {}
 }

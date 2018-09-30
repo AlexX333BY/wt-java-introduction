@@ -48,4 +48,9 @@ public class Task9Runner {
             System.out.println("\t" + ball.toString());
         }
     }
+
+    /**
+     * Constructor to avoid object creation
+     */
+    private Task9Runner() {}
 }

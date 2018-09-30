@@ -1,4 +1,7 @@
-package by.bsuir.kaziukovich.task2.figure;
+package by.bsuir.kaziukovich.task2.decisioner;
+
+import by.bsuir.kaziukovich.task2.figure.Point;
+import by.bsuir.kaziukovich.task2.figure.Rectangle;
 
 /**
  * Class containing methods to decide if point is in figure

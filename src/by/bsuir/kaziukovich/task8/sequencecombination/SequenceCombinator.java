@@ -101,4 +101,9 @@ public class SequenceCombinator {
         }
         return resultMap;
     }
+
+    /**
+     * Constructor to avoid object creation
+     */
+    private SequenceCombinator() {}
 }

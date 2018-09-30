@@ -2,7 +2,7 @@ package by.bsuir.kaziukovich.task2.runner;
 
 import by.bsuir.kaziukovich.common.ConsoleScanner;
 import by.bsuir.kaziukovich.task2.figure.Point;
-import by.bsuir.kaziukovich.task2.figure.PointInFigureDecisioner;
+import by.bsuir.kaziukovich.task2.decisioner.PointInFigureDecisioner;
 import by.bsuir.kaziukovich.task2.figure.Rectangle;
 
 /**

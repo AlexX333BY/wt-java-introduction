@@ -32,4 +32,9 @@ public class Task4Runner {
             System.out.println("Indexes of prime numbers: " + stringedIndexes.substring(1, stringedIndexes.length() - 1));
         }
     }
+
+    /**
+     * Constructor to avoid object creation
+     */
+    private Task4Runner() {}
 }

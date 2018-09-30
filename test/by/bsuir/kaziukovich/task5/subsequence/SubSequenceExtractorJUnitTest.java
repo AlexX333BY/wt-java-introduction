@@ -6,7 +6,7 @@ import org.junit.jupiter.api.Test;
 /**
  * Tests for SubSequenceExtractor class
  */
-class SubSequenceExtractorTest {
+class SubSequenceExtractorJUnitTest {
     /**
      * Tests for getLeastAmountToExtract() method
      */

@@ -34,4 +34,9 @@ public class Task3Runner {
             System.out.println("Error: " + e.getMessage());
         }
     }
+
+    /**
+     * Constructor to avoid object creation
+     */
+    private Task3Runner() {}
 }

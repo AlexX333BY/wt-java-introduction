@@ -52,4 +52,9 @@ public class Task12Runner {
         System.out.println("\tBook 1: " + book1.toString());
         System.out.println("\tBook 2: " + book2.toString());
     }
+
+    /**
+     * Constructor to avoid object creation
+     */
+    private Task12Runner() {}
 }

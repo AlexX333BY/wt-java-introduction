@@ -1,5 +1,7 @@
-package by.bsuir.kaziukovich.task2.figure;
+package by.bsuir.kaziukovich.task2.decisioner;
 
+import by.bsuir.kaziukovich.task2.figure.Point;
+import by.bsuir.kaziukovich.task2.figure.Rectangle;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

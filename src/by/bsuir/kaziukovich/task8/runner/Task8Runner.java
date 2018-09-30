@@ -56,4 +56,9 @@ public class Task8Runner {
             System.out.println("Error: " + e.getMessage());
         }
     }
+
+    /**
+     * Constructor to avoid object creation
+     */
+    private Task8Runner() {}
 }

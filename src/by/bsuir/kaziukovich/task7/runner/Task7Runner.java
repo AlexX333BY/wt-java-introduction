@@ -30,4 +30,9 @@ public class Task7Runner {
         }
         System.out.print("Sorted array: " + stringBuilder.toString());
     }
+
+    /**
+     * Constructor to avoid object creation
+     */
+    private Task7Runner() {}
 }
