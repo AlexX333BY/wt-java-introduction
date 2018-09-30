@@ -33,6 +33,11 @@ public class Book implements Comparable<Book> {
     private String isbn;
 
     /**
+     * Parts of ISBN
+     */
+    private final static int ISBN_PARTS = 5;
+
+    /**
      * Checks if books equals
      * @param object Object to compare
      * @return True if objects are same, otherwise false
@@ -124,16 +129,26 @@ public class Book implements Comparable<Book> {
     }
 
     /**
-     * Converts ISBN string to long
+     * Splits ISBN string to int array
      * @param isbn ISBN string
-     * @return Converted ISBN
+     * @return Splitted ISBN
      */
-    private static long isbnToLong(String isbn) {
-        if (isbn.contains("X")) {
-            return Long.parseLong(isbn.replace("-", "").replace("X", "0")) + 10;
-        } else {
-            return Long.parseLong(isbn.replace("-", ""));
+    private static int[] splitIsbnToInt(String isbn) {
+        final int DEFAULT_ISBN_FIRST_PART = 978;
+        int[] result = new int[ISBN_PARTS];
+        String[] splittedIsbn = isbn.replace("X", "10").split("-");
+        int indent = 0;
+
+        /* handling old 4-part ISBN */
+        if (splittedIsbn.length == ISBN_PARTS - 1) {
+            result[0] = DEFAULT_ISBN_FIRST_PART;
+            indent = 1;
         }
+        for (int i = indent; i < ISBN_PARTS; i++) {
+            result[i] = Integer.parseInt(splittedIsbn[i - indent]);
+        }
+
+        return result;
     }
 
     /**
@@ -143,7 +158,19 @@ public class Book implements Comparable<Book> {
      */
     @Override
     public int compareTo(Book book) {
-        return (int) Math.signum(isbnToLong(isbn) - isbnToLong(book.isbn));
+        int[] thisIsbn = splitIsbnToInt(isbn), otherIsbn;
+
+        if (book == null) {
+            throw new IllegalArgumentException("Book shouldn't be null");
+        }
+
+        otherIsbn = splitIsbnToInt(book.isbn);
+        for (int i = 0; i < ISBN_PARTS; i++) {
+            if (thisIsbn[i] != otherIsbn[i]) {
+                return thisIsbn[i] - otherIsbn[i];
+            }
+        }
+        return 0;
     }
 
     /**
