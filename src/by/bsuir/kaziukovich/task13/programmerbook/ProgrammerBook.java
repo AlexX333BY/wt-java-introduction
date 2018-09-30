@@ -63,8 +63,8 @@ public class ProgrammerBook extends Book {
      * @param language Language of book
      * @param level Level of book
      */
-    public ProgrammerBook(String title, String author, int price, String language, int level) {
-        super(title, author, price);
+    public ProgrammerBook(String title, String author, int price, String isbn, String language, int level) {
+        super(title, author, price, isbn);
         if ((language == null) || language.isEmpty()) {
             throw new IllegalArgumentException("Language shouldn't be empty");
         }

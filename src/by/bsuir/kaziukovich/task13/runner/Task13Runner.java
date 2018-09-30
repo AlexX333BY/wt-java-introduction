@@ -13,6 +13,7 @@ public class Task13Runner {
         String author;
         String title;
         int price;
+        String isbn;
         String language;
         int level;
 
@@ -26,8 +27,10 @@ public class Task13Runner {
         language = ConsoleScanner.getNonEmptyString();
         System.out.print("Enter book level: ");
         level = ConsoleScanner.getInt();
+        System.out.print("Enter book isbn: ");
+        isbn = ConsoleScanner.getString();
 
-        return new ProgrammerBook(title, author, price, language, level);
+        return new ProgrammerBook(title, author, price, isbn, language, level);
     }
 
     /**

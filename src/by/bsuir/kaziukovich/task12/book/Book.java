@@ -1,11 +1,12 @@
 package by.bsuir.kaziukovich.task12.book;
 
 import java.util.Objects;
+import java.util.regex.Pattern;
 
 /**
  * Class for Book representation
  */
-public class Book {
+public class Book implements Comparable<Book> {
     /**
      * Book title
      */
@@ -27,6 +28,11 @@ public class Book {
     private static int edition;
 
     /**
+     * Book ISBN
+     */
+    private String isbn;
+
+    /**
      * Checks if books equals
      * @param object Object to compare
      * @return True if objects are same, otherwise false
@@ -43,7 +49,7 @@ public class Book {
         }
 
         book = (Book) object;
-        return title.equals(book.title) && author.equals(book.author) && (price == book.price);
+        return title.equals(book.title) && author.equals(book.author) && (price == book.price) && isbn.equals(book.isbn);
     }
 
     /**
@@ -52,7 +58,7 @@ public class Book {
      */
     @Override
     public int hashCode() {
-        return Objects.hash(title, author, price, edition);
+        return Objects.hash(title, author, price, edition, isbn);
     }
 
     /**
@@ -62,7 +68,7 @@ public class Book {
     @Override
     public String toString() {
         return getClass().getName() + "@title: " + title + ", author: " + author + ", price: " + price + ", edition: "
-                + edition;
+                + edition + ", ISBN: " + isbn;
     }
 
     /**
@@ -71,7 +77,7 @@ public class Book {
      */
     @Override
     protected Object clone() {
-        return new Book(title, author, price);
+        return new Book(title, author, price, isbn);
     }
 
     /**
@@ -87,12 +93,66 @@ public class Book {
     }
 
     /**
+     * Checks if ISBN is correct
+     * @param isbn ISBN to check
+     * @return True if ISBN is correct, otherwise false
+     */
+    private static boolean isIsbnCorrect(String isbn) {
+        String[] splittedIsbn = isbn.split(Pattern.quote("-"));
+        byte indent = 0;
+        int isbnLength = 0;
+
+        if ((splittedIsbn.length != 5) && (splittedIsbn.length != 4)) {
+            return false;
+        }
+        if (splittedIsbn.length == 5) {
+            if (!splittedIsbn[0].matches("^97[89]$")) {
+                return false;
+            }
+            indent = 1;
+        }
+
+        for (String s : splittedIsbn) {
+            isbnLength += s.length();
+        }
+
+        return (isbnLength == 13)
+                && splittedIsbn[indent].matches("^\\d{1,5}$")
+                && splittedIsbn[1 + indent].matches("^\\d{2,7}$")
+                && splittedIsbn[2 + indent].matches("^\\d{1,6}$")
+                && splittedIsbn[3 + indent].matches("^[0-9X]$");
+    }
+
+    /**
+     * Converts ISBN string to long
+     * @param isbn ISBN string
+     * @return Converted ISBN
+     */
+    private static long isbnToLong(String isbn) {
+        if (isbn.contains("X")) {
+            return Long.parseLong(isbn.replace("-", "").replace("X", "0")) + 10;
+        } else {
+            return Long.parseLong(isbn.replace("-", ""));
+        }
+    }
+
+    /**
+     * Compares two books by ISBN
+     * @param book Book to compare to this book
+     * @return A negative integer, zero, or a positive integer as this book is less than, equal to, or greater than the specified book
+     */
+    @Override
+    public int compareTo(Book book) {
+        return (int) Math.signum(isbnToLong(isbn) - isbnToLong(book.isbn));
+    }
+
+    /**
      * Constructor of book
      * @param title Title of book
      * @param author Author of book
      * @param price Price of book
      */
-    public Book(String title, String author, int price) {
+    public Book(String title, String author, int price, String isbn) {
         if (title == null) {
             throw new IllegalArgumentException("Title shouldn't be null");
         }
@@ -100,11 +160,18 @@ public class Book {
             throw new IllegalArgumentException("Author shouldn't be null");
         }
         if (price < 0) {
-            throw new IllegalArgumentException("price cannot be negative");
+            throw new IllegalArgumentException("Price cannot be negative");
+        }
+        if (isbn == null) {
+            throw new IllegalArgumentException("ISBN shouldn't be null");
+        }
+        if (!isIsbnCorrect(isbn)) {
+            throw new IllegalArgumentException(("ISBN is not correct"));
         }
 
         this.title = title;
         this.author = author;
         this.price = price;
+        this.isbn = isbn;
     }
 }

@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8723ff37-3855-40bf-809d-81b6f9a72c02" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/runner/Task12Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/runner/Task12Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/programmerbook/ProgrammerBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/programmerbook/ProgrammerBook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/runner/Task13Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/runner/Task13Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/figure/PointInFigureDecisioner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/decisioner/PointInFigureDecisioner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/runner/Task2Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task2/runner/Task2Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/runner/Task3Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/runner/Task3Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task4/runner/Task4Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task4/runner/Task4Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task5/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task5/runner/Task5Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task7/runner/Task7Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task7/runner/Task7Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task8/runner/Task8Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task8/runner/Task8Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task8/sequencecombination/SequenceCombinator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task8/sequencecombination/SequenceCombinator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task9/runner/Task9Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task9/runner/Task9Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task2/figure/PointInFigureDecisionerJUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task2/decisioner/PointInFigureDecisionerJUnitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task5/subsequence/SubSequenceExtractorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task5/subsequence/SubSequenceExtractorJUnitTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,23 +35,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="96" />
+          <entry key="java" value="100" />
+          <entry key="regexp" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="96" />
+          <entry key="JAVA" value="100" />
+          <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="28" />
-          <entry key="java" value="35450" />
+          <entry key="java" value="37124" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="35450" />
+          <entry key="JAVA" value="37124" />
           <entry key="PLAIN_TEXT" value="28" />
         </counts>
       </usages-collector>
@@ -69,11 +61,63 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/common/ConsoleScanner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="998">
+            <state relative-caret-position="853">
               <caret line="84" column="31" lean-forward="true" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/runner/Task12Runner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/programmerbook/ProgrammerBook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1240">
+              <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/runner/Task13Runner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="32" column="61" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-926">
+              <caret line="74" column="48" lean-forward="true" selection-start-line="74" selection-start-column="48" selection-end-line="74" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1567#1568#0" expanded="true" />
+                <element signature="e#1620#1621#0" expanded="true" />
+                <element signature="e#3403#3404#0" expanded="true" />
+                <element signature="e#3485#3486#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -130,8 +174,6 @@
         <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task9/basketball/BasketJUnitTest.java" />
         <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task9/basketanalysis/BasketAnalyzerJUnitTest.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/common/ConsoleScanner.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/programmerbook/ProgrammerBook.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task5/subsequence/SubsequenceExtractor.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task5/subsequence/SubSequenceExtractor.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task5/runner/Runner.java" />
@@ -143,9 +185,11 @@
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task8/runner/Task8Runner.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task8/sequencecombination/SequenceCombinator.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task9/runner/Task9Runner.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/runner/Task12Runner.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/runner/Task13Runner.java" />
         <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task2/decisioner/PointInFigureDecisionerJUnitTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/programmerbook/ProgrammerBook.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/runner/Task13Runner.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/runner/Task12Runner.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java" />
       </list>
     </option>
   </component>
@@ -339,6 +383,52 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
+              <item name="task12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
+              <item name="task12" type="462c0819:PsiDirectoryNode" />
+              <item name="book" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
+              <item name="task12" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
+              <item name="task13" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
+              <item name="task13" type="462c0819:PsiDirectoryNode" />
+              <item name="programmerbook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
+              <item name="task13" type="462c0819:PsiDirectoryNode" />
+              <item name="runner" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -351,10 +441,11 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538332533410" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538337435987" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="last.edited.regexp" value="9789" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -393,13 +484,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in wt-java-introduction">
-    <configuration name="Task13Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task13.runner.Task13Runner" />
+  <component name="RunManager" selected="Application.Task12Runner">
+    <configuration name="Task12Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task12.runner.Task12Runner" />
       <module name="wt-java-introduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bsuir.kaziukovich.task13.runner.*" />
+          <option name="PATTERN" value="by.bsuir.kaziukovich.task12.runner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -472,19 +563,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Task13Runner" />
       <item itemvalue="Application.Task5Runner" />
       <item itemvalue="JUnit.SubSequenceExtractorJUnitTest.getLeastAmountToExtract" />
       <item itemvalue="JUnit.SubSequenceExtractorJUnitTest" />
       <item itemvalue="JUnit.All in wt-java-introduction" />
+      <item itemvalue="Application.Task12Runner" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task12Runner" />
         <item itemvalue="JUnit.All in wt-java-introduction" />
         <item itemvalue="JUnit.SubSequenceExtractorJUnitTest" />
         <item itemvalue="JUnit.SubSequenceExtractorJUnitTest.getLeastAmountToExtract" />
         <item itemvalue="Application.Task5Runner" />
-        <item itemvalue="Application.Task13Runner" />
       </list>
     </recent_temporary>
   </component>
@@ -508,7 +599,7 @@
       <workItem from="1537721012361" duration="2146000" />
       <workItem from="1537726103474" duration="8285000" />
       <workItem from="1538315335433" duration="1322000" />
-      <workItem from="1538317671026" duration="14687000" />
+      <workItem from="1538317671026" duration="19587000" />
     </task>
     <servers />
   </component>
@@ -545,12 +636,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63584000" />
+    <option name="totallyTimeSpent" value="68484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="2560" height="1413" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14666137" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14666137" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -559,7 +650,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32970452" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960256" visible="true" weight="0.1718507" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960256" weight="0.1718507" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39968896" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -567,7 +658,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32970452" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49880764" weight="0.20684293" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49880764" visible="true" weight="0.20684293" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5011924" side_tool="true" weight="0.20684293" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.13452566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -666,31 +757,6 @@
           <folding>
             <element signature="e#1388#1389#0" expanded="true" />
             <element signature="e#1476#1477#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/programmerbook/ProgrammerBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="50" column="55" selection-start-line="50" selection-start-column="55" selection-end-line="50" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1021#1022#0" expanded="true" />
-            <element signature="e#1091#1092#0" expanded="true" />
-            <element signature="e#1243#1244#0" expanded="true" />
-            <element signature="e#1332#1333#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2060">
-          <caret line="105" column="27" lean-forward="true" selection-start-line="105" selection-start-column="27" selection-end-line="105" selection-end-column="27" />
-          <folding>
-            <element signature="e#1567#1568#0" expanded="true" />
-            <element signature="e#1620#1621#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -871,26 +937,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/runner/Task12Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="928">
-          <caret line="58" column="24" selection-start-line="58" selection-start-column="24" selection-end-line="58" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/runner/Task13Runner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1074">
-          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task2/decisioner/PointInFigureDecisionerJUnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40">
@@ -976,10 +1022,54 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/programmerbook/ProgrammerBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="66" column="40" selection-start-line="66" selection-start-column="40" selection-end-line="66" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/runner/Task13Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="32" column="61" selection-start-line="32" selection-start-column="61" selection-end-line="32" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/common/ConsoleScanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="998">
+        <state relative-caret-position="853">
           <caret line="84" column="31" lean-forward="true" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/runner/Task12Runner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="41" column="18" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-926">
+          <caret line="74" column="48" lean-forward="true" selection-start-line="74" selection-start-column="48" selection-end-line="74" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1567#1568#0" expanded="true" />
+            <element signature="e#1620#1621#0" expanded="true" />
+            <element signature="e#3403#3404#0" expanded="true" />
+            <element signature="e#3485#3486#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

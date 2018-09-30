@@ -15,6 +15,7 @@ public class Task12Runner {
         String author;
         String title;
         int price;
+        String isbn;
 
         System.out.print("Enter book title: ");
         title = ConsoleScanner.getString();
@@ -22,8 +23,10 @@ public class Task12Runner {
         author = ConsoleScanner.getString();
         System.out.print("Enter book price: ");
         price = ConsoleScanner.getNonNegativeInt();
+        System.out.print("Enter book ISBN: ");
+        isbn = ConsoleScanner.getString();
 
-        return new Book(title, author, price);
+        return new Book(title, author, price, isbn);
     }
 
     /**
@@ -34,10 +37,15 @@ public class Task12Runner {
         Book book1;
         Book book2;
 
-        System.out.println("Fill book 1 info");
-        book1 = inputBook();
-        System.out.println("Fill book 2 info");
-        book2 = inputBook();
+        try {
+            System.out.println("Fill book 1 info");
+            book1 = inputBook();
+            System.out.println("Fill book 2 info");
+            book2 = inputBook();
+        } catch (IllegalArgumentException e) {
+            System.out.println("Input error: " + e.getMessage());
+            return;
+        }
 
         System.out.print("Enter book edition: ");
         Book.setEdition(ConsoleScanner.getNonNegativeInt());
@@ -51,6 +59,8 @@ public class Task12Runner {
         System.out.println("Books string representation:");
         System.out.println("\tBook 1: " + book1.toString());
         System.out.println("\tBook 2: " + book2.toString());
+
+        System.out.println("Book 1 to book 2 compare result: " + book1.compareTo(book2));
     }
 
     /**
