@@ -39,6 +39,7 @@ public class ConsoleScanner {
     public static int getInt() {
         Scanner consoleScanner = new Scanner(System.in);
 
+
         while (!consoleScanner.hasNextInt()) {
             consoleScanner.next();
         }
@@ -63,7 +64,7 @@ public class ConsoleScanner {
      * @return First string
      */
     public static String getString() {
-        return new Scanner(System.in).next();
+        return new Scanner(System.in).nextLine();
     }
 
     /**
