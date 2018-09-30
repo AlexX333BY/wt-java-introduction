@@ -66,6 +66,15 @@ public class Book {
     }
 
     /**
+     * Creates and returns a copy of this object
+     * @return Copy of this object
+     */
+    @Override
+    protected Object clone() {
+        return new Book(title, author, price);
+    }
+
+    /**
      * Sets edition of all books
      * @param edition Edition to set
      */
