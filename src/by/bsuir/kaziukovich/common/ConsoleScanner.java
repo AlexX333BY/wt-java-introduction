@@ -39,7 +39,6 @@ public class ConsoleScanner {
     public static int getInt() {
         Scanner consoleScanner = new Scanner(System.in);
 
-
         while (!consoleScanner.hasNextInt()) {
             consoleScanner.next();
         }
