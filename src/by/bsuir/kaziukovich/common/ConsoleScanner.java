@@ -20,6 +20,19 @@ public class ConsoleScanner {
     }
 
     /**
+     * Get positive double value from console
+     * @return First positive double value
+     */
+    public static double getPositiveDouble() {
+        double result;
+
+        do {
+            result = getDouble();
+        } while (result <= 0);
+        return result;
+    }
+
+    /**
      * Get int value from console
      * @return First int value
      */
@@ -42,6 +55,27 @@ public class ConsoleScanner {
         do {
             result = getInt();
         } while (result < 0);
+        return result;
+    }
+
+    /**
+     * Get first string from console
+     * @return First string
+     */
+    public static String getString() {
+        return new Scanner(System.in).next();
+    }
+
+    /**
+     * Get first non-empty string from console
+     * @return First non-empty string
+     */
+    public static String getNonEmptyString() {
+        String result;
+
+        do {
+            result = getString();
+        } while (result.isEmpty());
         return result;
     }
 
