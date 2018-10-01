@@ -159,18 +159,113 @@ public class Book implements Comparable<Book> {
     @Override
     public int compareTo(Book book) {
         int[] thisIsbn = splitIsbnToInt(isbn), otherIsbn;
+        int compareResult = 0;
 
         if (book == null) {
             throw new IllegalArgumentException("Book shouldn't be null");
         }
 
         otherIsbn = splitIsbnToInt(book.isbn);
-        for (int i = 0; i < ISBN_PARTS; i++) {
-            if (thisIsbn[i] != otherIsbn[i]) {
-                return thisIsbn[i] - otherIsbn[i];
-            }
+        for (int i = 0; (i < ISBN_PARTS) && (compareResult == 0); i++) {
+            compareResult = Integer.compare(thisIsbn[i], otherIsbn[i]);
         }
-        return 0;
+        return compareResult;
+    }
+
+    /**
+     * Compares two books by title
+     * @param book Book to compare to this book
+     * @return A negative integer, zero, or a positive integer as this book is less than, equal to, or greater than the specified book
+     */
+    public int compareByTitleTo(Book book) {
+        if (book == null) {
+            throw new IllegalArgumentException("Book shouldn't be null");
+        }
+
+        return title.compareTo(book.title);
+    }
+
+    /**
+     * Compares two books by author
+     * @param book Book to compare to this book
+     * @return A negative integer, zero, or a positive integer as this book is less than, equal to, or greater than the specified book
+     */
+    public int compareByAuthorTo(Book book) {
+        if (book == null) {
+            throw new IllegalArgumentException("Book shouldn't be null");
+        }
+
+        return author.compareTo(book.author);
+    }
+
+    /**
+     * Compares two books by price
+     * @param book Book to compare to this book
+     * @return A negative integer, zero, or a positive integer as this book is less than, equal to, or greater than the specified book
+     */
+    public int compareByPriceTo(Book book) {
+        if (book == null) {
+            throw new IllegalArgumentException("Book shouldn't be null");
+        }
+
+        return Integer.compare(price, book.price);
+    }
+
+    /**
+     * Compares two books by title, then by author
+     * @param book Book to compare to this book
+     * @return A negative integer, zero, or a positive integer as this book is less than, equal to, or greater than the specified book
+     */
+    public int compareByTitleAuthorTo(Book book) {
+        int compareResult;
+
+        if (book == null) {
+            throw new IllegalArgumentException("Book shouldn't be null");
+        }
+
+        compareResult = compareByTitleTo(book);
+        if (compareResult == 0) {
+            compareResult = compareByAuthorTo(book);
+        }
+        return compareResult;
+    }
+
+    /**
+     * Compares two books by author, then by title
+     * @param book Book to compare to this book
+     * @return A negative integer, zero, or a positive integer as this book is less than, equal to, or greater than the specified book
+     */
+    public int compareByAuthorTitleTo(Book book) {
+        int compareResult;
+
+        if (book == null) {
+            throw new IllegalArgumentException("Book shouldn't be null");
+        }
+
+        compareResult = compareByAuthorTo(book);
+        if (compareResult == 0) {
+            compareResult = compareByTitleTo(book);
+        }
+        return compareResult;
+    }
+
+    /**
+     * Compares two books by author, then by title, then by price
+     * @param book Book to compare to this book
+     * @return A negative integer, zero, or a positive integer as this book is less than, equal to, or greater than the specified book
+     */
+    public int compareByAuthorTitlePriceTo(Book book) {
+        int compareResult;
+
+        if (book == null) {
+            throw new IllegalArgumentException("Book shouldn't be null");
+        }
+
+        compareResult = compareByAuthorTitleTo(book);
+        if (compareResult == 0) {
+            compareResult = compareByPriceTo(book);
+        }
+        return compareResult;
     }
 
     /**
