@@ -98,6 +98,46 @@ public class Book implements Comparable<Book> {
     }
 
     /**
+     * Gets book title
+     * @return Book title
+     */
+    public String getTitle() {
+        return title;
+    }
+
+    /**
+     * Gets book author
+     * @return Book author
+     */
+    public String getAuthor() {
+        return author;
+    }
+
+    /**
+     * Gets book price
+     * @return Book price
+     */
+    public int getPrice() {
+        return price;
+    }
+
+    /**
+     * Gets book edition
+     * @return Book edition
+     */
+    public static int getEdition() {
+        return edition;
+    }
+
+    /**
+     * Gets book ISBN
+     * @return Book ISBN
+     */
+    public String getIsbn() {
+        return isbn;
+    }
+
+    /**
      * Checks if ISBN is correct
      * @param isbn ISBN to check
      * @return True if ISBN is correct, otherwise false
@@ -169,7 +209,8 @@ public class Book implements Comparable<Book> {
         for (int i = 0; (i < ISBN_PARTS) && (compareResult == 0); i++) {
             compareResult = Integer.compare(thisIsbn[i], otherIsbn[i]);
         }
-        return compareResult;    }
+        return compareResult;
+    }
 
     /**
      * Constructor of book

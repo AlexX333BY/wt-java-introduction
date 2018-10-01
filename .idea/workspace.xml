@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8723ff37-3855-40bf-809d-81b6f9a72c02" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task12/book/BookJUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task12/book/BookJUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,12 +45,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="28" />
-          <entry key="java" value="38707" />
+          <entry key="java" value="38875" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="38707" />
+          <entry key="JAVA" value="38875" />
           <entry key="PLAIN_TEXT" value="28" />
         </counts>
       </usages-collector>
@@ -67,25 +67,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="920">
-              <caret line="171" column="29" selection-start-line="171" selection-start-column="29" selection-end-line="171" selection-end-column="29" />
+            <state relative-caret-position="2580">
+              <caret line="133" column="24" selection-start-line="133" selection-start-column="24" selection-end-line="133" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task12/book/BookJUnitTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#2249#2250#0" expanded="true" />
+                <element signature="e#2277#2278#0" expanded="true" />
+                <element signature="e#2310#2311#0" expanded="true" />
+                <element signature="e#2339#2340#0" expanded="true" />
+                <element signature="e#2368#2369#0" expanded="true" />
+                <element signature="e#2396#2397#0" expanded="true" />
+                <element signature="e#2434#2435#0" expanded="true" />
+                <element signature="e#2464#2465#0" expanded="true" />
+                <element signature="e#2495#2496#0" expanded="true" />
+                <element signature="e#2522#2523#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,8 +155,8 @@
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/programmerbook/ProgrammerBook.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task13/runner/Task13Runner.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/runner/Task12Runner.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java" />
         <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task12/book/BookJUnitTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java" />
       </list>
     </option>
   </component>
@@ -410,7 +408,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538426229812" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538426777001" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -572,14 +570,11 @@
       <workItem from="1537726103474" duration="8285000" />
       <workItem from="1538315335433" duration="1322000" />
       <workItem from="1538317671026" duration="21718000" />
-      <workItem from="1538426085199" duration="373000" />
+      <workItem from="1538426085199" duration="1066000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="by_bsuir_kaziukovich_task9_in_wt-java-introduction - 2018.09.30 at 19h 12m 04s.xml">
-      <configuration name="by.bsuir.kaziukovich.task9 in wt-java-introduction" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SubSequenceExtractorTest_getLeastAmountToExtract - 2018.09.30 at 21h 22m 05s.xml">
       <configuration name="SubSequenceExtractorTest.getLeastAmountToExtract" configurationId="JUnit" />
     </history-entry>
@@ -607,9 +602,12 @@
     <history-entry file="BookJUnitTest - 2018.09.30 at 23h 32m 17s.xml">
       <configuration name="BookJUnitTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BookJUnitTest - 2018.10.01 at 23h 41m 01s.xml">
+      <configuration name="BookJUnitTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70988000" />
+    <option name="totallyTimeSpent" value="71681000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="2560" height="1413" extended-state="6" />
@@ -632,7 +630,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.32970452" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49880764" weight="0.20684293" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49880764" visible="true" weight="0.20684293" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5011924" side_tool="true" weight="0.20684293" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.13452566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -964,22 +962,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="920">
-          <caret line="171" column="29" selection-start-line="171" selection-start-column="29" selection-end-line="171" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task12/book/BookJUnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="640">
           <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2580">
+          <caret line="133" column="24" selection-start-line="133" selection-start-column="24" selection-end-line="133" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2249#2250#0" expanded="true" />
+            <element signature="e#2277#2278#0" expanded="true" />
+            <element signature="e#2310#2311#0" expanded="true" />
+            <element signature="e#2339#2340#0" expanded="true" />
+            <element signature="e#2368#2369#0" expanded="true" />
+            <element signature="e#2396#2397#0" expanded="true" />
+            <element signature="e#2434#2435#0" expanded="true" />
+            <element signature="e#2464#2465#0" expanded="true" />
+            <element signature="e#2495#2496#0" expanded="true" />
+            <element signature="e#2522#2523#0" expanded="true" />
           </folding>
         </state>
       </provider>
