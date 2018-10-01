@@ -4,9 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8723ff37-3855-40bf-809d-81b6f9a72c02" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8723ff37-3855-40bf-809d-81b6f9a72c02" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,54 +30,32 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="114" />
+          <entry key="java" value="126" />
           <entry key="regexp" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="114" />
+          <entry key="JAVA" value="126" />
           <entry key="RegExp" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="28" />
-          <entry key="java" value="39988" />
+          <entry key="java" value="42077" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="39988" />
+          <entry key="JAVA" value="42077" />
           <entry key="PLAIN_TEXT" value="28" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/common/ConsoleScanner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1074">
-              <caret line="84" column="31" selection-start-line="84" selection-start-column="31" selection-end-line="84" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task15/bookcomparators/BookAuthorComparator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -96,11 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/formula/StepFormulaCounter.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/tangent/StepFormulaCounter.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/tangent/TwoRowTableBuilder.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/tangent/StepTangentCounter.java" />
-        <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task3/tablebuilder/TwoColumnTableBuilder.java" />
         <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task3/tablebuilder/TwoColumnTableBuilderTest.java" />
         <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task3/tablebuilder/TwoColumnTableBuilderJUnitTest.java" />
         <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task3/tangent/StepTangentCounterJUnitTest.java" />
@@ -140,13 +111,18 @@
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task16/bookcomparators/BookTitleComparator.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task16/bookcomparators/BookAuthorComparator.java" />
-        <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task15/bookcomparators/BookTitleComparatorJUnitTest.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task15/bookcomparators/BookAuthorComparator.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task15/bookcomparators/BookAuthorTitleComparator.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task15/bookcomparators/BookAuthorTitlePriceComparator.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task15/bookcomparators/BookPriceComparator.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task15/bookcomparators/BookTitleAuthorComparator.java" />
         <option value="$PROJECT_DIR$/src/by/bsuir/kaziukovich/task15/bookcomparators/BookTitleComparator.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task15/bookcomparators/BookAuthorComparatorJUnitTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task15/bookcomparators/BookPriceComparatorJUnitTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task15/bookcomparators/BookAuthorTitleComparatorJUnitTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task15/bookcomparators/BookAuthorTitlePriceComparatorJUnitTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task15/bookcomparators/BookTitleAuthorComparatorJUnitTest.java" />
+        <option value="$PROJECT_DIR$/test/by/bsuir/kaziukovich/task15/bookcomparators/BookTitleComparatorJUnitTest.java" />
       </list>
     </option>
   </component>
@@ -272,81 +248,6 @@
               <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
               <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-              <item name="task12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-              <item name="task12" type="462c0819:PsiDirectoryNode" />
-              <item name="book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-              <item name="task12" type="462c0819:PsiDirectoryNode" />
-              <item name="runner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-              <item name="task13" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-              <item name="task13" type="462c0819:PsiDirectoryNode" />
-              <item name="programmerbook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-              <item name="task13" type="462c0819:PsiDirectoryNode" />
-              <item name="runner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-              <item name="bookcomparators" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="wt-java-introduction" type="b2602c69:ProjectViewProjectNode" />
-              <item name="wt-java-introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="kaziukovich" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -416,7 +317,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538429390802" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538432411579" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -460,33 +361,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BookJUnitTest">
-    <configuration name="Task12Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task12.runner.Task12Runner" />
-      <module name="wt-java-introduction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.bsuir.kaziukovich.task12.runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task6Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task6.runner.Task6Runner" />
-      <module name="wt-java-introduction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.bsuir.kaziukovich.task6.runner.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.All in wt-java-introduction">
     <configuration name="All in wt-java-introduction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="wt-java-introduction" />
       <option name="PACKAGE_NAME" value="" />
@@ -495,65 +370,78 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookJUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookAuthorTitlePriceComparatorJUnitTest.compare" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="wt-java-introduction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="by.bsuir.kaziukovich.task12.book.*" />
+          <option name="PATTERN" value="by.bsuir.kaziukovich.task15.bookcomparators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task12.book" />
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task12.book.BookJUnitTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubSequenceExtractorJUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="wt-java-introduction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.bsuir.kaziukovich.task5.subsequence.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task5.subsequence" />
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task5.subsequence.SubSequenceExtractorJUnitTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubSequenceExtractorJUnitTest.getLeastAmountToExtract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="wt-java-introduction" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="by.bsuir.kaziukovich.task5.subsequence.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task5.subsequence" />
-      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task5.subsequence.SubSequenceExtractorJUnitTest" />
-      <option name="METHOD_NAME" value="getLeastAmountToExtract" />
+      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task15.bookcomparators" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task15.bookcomparators.BookAuthorTitlePriceComparatorJUnitTest" />
+      <option name="METHOD_NAME" value="compare" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BookPriceComparatorJUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wt-java-introduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.kaziukovich.task15.bookcomparators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task15.bookcomparators" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task15.bookcomparators.BookPriceComparatorJUnitTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookTitleAuthorComparatorJUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wt-java-introduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.kaziukovich.task15.bookcomparators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task15.bookcomparators" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task15.bookcomparators.BookTitleAuthorComparatorJUnitTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BookTitleComparatorJUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="wt-java-introduction" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.kaziukovich.task15.bookcomparators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="by.bsuir.kaziukovich.task15.bookcomparators" />
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.kaziukovich.task15.bookcomparators.BookTitleComparatorJUnitTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Task6Runner" />
-      <item itemvalue="JUnit.SubSequenceExtractorJUnitTest.getLeastAmountToExtract" />
-      <item itemvalue="JUnit.SubSequenceExtractorJUnitTest" />
+      <item itemvalue="JUnit.BookAuthorTitlePriceComparatorJUnitTest.compare" />
+      <item itemvalue="JUnit.BookPriceComparatorJUnitTest" />
+      <item itemvalue="JUnit.BookTitleAuthorComparatorJUnitTest" />
+      <item itemvalue="JUnit.BookTitleComparatorJUnitTest" />
       <item itemvalue="JUnit.All in wt-java-introduction" />
-      <item itemvalue="Application.Task12Runner" />
-      <item itemvalue="JUnit.BookJUnitTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BookJUnitTest" />
-        <item itemvalue="Application.Task12Runner" />
         <item itemvalue="JUnit.All in wt-java-introduction" />
-        <item itemvalue="JUnit.SubSequenceExtractorJUnitTest" />
-        <item itemvalue="JUnit.SubSequenceExtractorJUnitTest.getLeastAmountToExtract" />
+        <item itemvalue="JUnit.BookTitleComparatorJUnitTest" />
+        <item itemvalue="JUnit.BookTitleAuthorComparatorJUnitTest" />
+        <item itemvalue="JUnit.BookPriceComparatorJUnitTest" />
+        <item itemvalue="JUnit.BookAuthorTitlePriceComparatorJUnitTest.compare" />
       </list>
     </recent_temporary>
   </component>
@@ -578,48 +466,47 @@
       <workItem from="1537726103474" duration="8285000" />
       <workItem from="1538315335433" duration="1322000" />
       <workItem from="1538317671026" duration="21718000" />
-      <workItem from="1538426085199" duration="3429000" />
+      <workItem from="1538426085199" duration="6521000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SubSequenceExtractorTest_getLeastAmountToExtract - 2018.09.30 at 21h 22m 05s.xml">
-      <configuration name="SubSequenceExtractorTest.getLeastAmountToExtract" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SubSequenceExtractorTest - 2018.09.30 at 21h 23m 58s.xml">
-      <configuration name="SubSequenceExtractorTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_wt-java-introduction - 2018.09.30 at 21h 32m 51s.xml">
-      <configuration name="All in wt-java-introduction" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_wt-java-introduction - 2018.09.30 at 21h 35m 35s.xml">
-      <configuration name="All in wt-java-introduction" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BookJUnitTest - 2018.09.30 at 23h 04m 29s.xml">
-      <configuration name="BookJUnitTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BookJUnitTest - 2018.09.30 at 23h 27m 05s.xml">
-      <configuration name="BookJUnitTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BookJUnitTest - 2018.09.30 at 23h 29m 29s.xml">
-      <configuration name="BookJUnitTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BookJUnitTest - 2018.09.30 at 23h 32m 00s.xml">
-      <configuration name="BookJUnitTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BookJUnitTest - 2018.09.30 at 23h 32m 17s.xml">
-      <configuration name="BookJUnitTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BookJUnitTest - 2018.10.01 at 23h 41m 01s.xml">
       <configuration name="BookJUnitTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BookAuthorComparatorJUnitTest - 2018.10.02 at 00h 42m 32s.xml">
+      <configuration name="BookAuthorComparatorJUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookAuthorComparatorJUnitTest_compare - 2018.10.02 at 00h 48m 28s.xml">
+      <configuration name="BookAuthorComparatorJUnitTest.compare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookAuthorTitleComparatorJUnitTest_compare - 2018.10.02 at 00h 58m 15s.xml">
+      <configuration name="BookAuthorTitleComparatorJUnitTest.compare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookAuthorTitlePriceComparatorJUnitTest - 2018.10.02 at 01h 07m 19s.xml">
+      <configuration name="BookAuthorTitlePriceComparatorJUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookAuthorTitlePriceComparatorJUnitTest_compare - 2018.10.02 at 01h 09m 26s.xml">
+      <configuration name="BookAuthorTitlePriceComparatorJUnitTest.compare" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookPriceComparatorJUnitTest - 2018.10.02 at 01h 12m 45s.xml">
+      <configuration name="BookPriceComparatorJUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookTitleAuthorComparatorJUnitTest - 2018.10.02 at 01h 16m 47s.xml">
+      <configuration name="BookTitleAuthorComparatorJUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BookTitleComparatorJUnitTest - 2018.10.02 at 01h 20m 01s.xml">
+      <configuration name="BookTitleComparatorJUnitTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_wt-java-introduction - 2018.10.02 at 01h 20m 12s.xml">
+      <configuration name="All in wt-java-introduction" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74044000" />
+    <option name="totallyTimeSpent" value="77136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="2560" height="1413" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14785373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -630,7 +517,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32970452" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960256" weight="0.1718507" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49960256" visible="true" weight="0.1718507" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39968896" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -690,23 +577,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task1/formula/FormulaCounterTest.java" />
-    <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task1/formula/FormulaCounterTest.java" />
-    <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task6/runner/Task6Runner.java" />
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task9/basketanalysis/BasketAnalyzer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-67">
-          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task9/basketball/Basket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1027">
-          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task9/basketball/Ball.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-652">
@@ -965,16 +835,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task12/book/BookJUnitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task12/book/Book.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2580">
@@ -995,13 +855,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task15/bookcomparators/BookTitleComparatorJUnitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/common/ConsoleScanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1074">
@@ -1009,10 +862,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task15/bookcomparators/BookAuthorComparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task15/bookcomparators/BookAuthorTitleComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="160">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1021,8 +884,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task15/bookcomparators/BookAuthorTitlePriceComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state>
+          <caret column="52" lean-forward="true" selection-start-column="52" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1031,8 +894,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task15/bookcomparators/BookPriceComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="160">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1041,8 +904,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task15/bookcomparators/BookTitleAuthorComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="160">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task12/book/BookJUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="42" column="9" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1051,20 +924,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task15/bookcomparators/BookTitleComparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="160">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/by/bsuir/kaziukovich/task15/bookcomparators/BookAuthorComparator.java">
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task15/bookcomparators/BookAuthorComparatorJUnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="53">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#690#691#0" expanded="true" />
+            <element signature="e#773#774#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task15/bookcomparators/BookAuthorTitleComparatorJUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="50" column="51" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task15/bookcomparators/BookAuthorTitlePriceComparatorJUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="713">
+          <caret line="59" column="40" lean-forward="true" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task15/bookcomparators/BookPriceComparatorJUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#762#763#0" expanded="true" />
+            <element signature="e#845#846#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task15/bookcomparators/BookTitleAuthorComparatorJUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/by/bsuir/kaziukovich/task15/bookcomparators/BookTitleComparatorJUnitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="43" column="64" selection-start-line="43" selection-start-column="64" selection-end-line="43" selection-end-column="64" />
+          <folding>
+            <element signature="e#756#757#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
           </folding>
         </state>
       </provider>
