@@ -159,19 +159,17 @@ public class Book implements Comparable<Book> {
     @Override
     public int compareTo(Book book) {
         int[] thisIsbn = splitIsbnToInt(isbn), otherIsbn;
+        int compareResult = 0;
 
         if (book == null) {
             throw new IllegalArgumentException("Book shouldn't be null");
         }
 
         otherIsbn = splitIsbnToInt(book.isbn);
-        for (int i = 0; i < ISBN_PARTS; i++) {
-            if (thisIsbn[i] != otherIsbn[i]) {
-                return thisIsbn[i] - otherIsbn[i];
-            }
+        for (int i = 0; (i < ISBN_PARTS) && (compareResult == 0); i++) {
+            compareResult = Integer.compare(thisIsbn[i], otherIsbn[i]);
         }
-        return 0;
-    }
+        return compareResult;    }
 
     /**
      * Constructor of book
