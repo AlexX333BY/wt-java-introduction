@@ -7,8 +7,33 @@ import org.junit.jupiter.api.Test;
  * Tests for Book class
  */
 class BookJUnitTest {
+    /**
+     * Default title of test book
+     */
+    private static final String DEFAULT_TITLE = "title";
+
+    /**
+     * Default author of test book
+     */
+    private static final String DEFAULT_AUTHOR = "author";
+
+    /**
+     * Default price of test book
+     */
+    private static final int DEFAULT_PRICE = 0;
+
+    /**
+     * Default ISBN of test book
+     */
+    private static final String DEFAULT_ISBN = "978-0-00-000000-0";
+
+    /**
+     * Creates test book by ISBN
+     * @param isbn ISBN to create book by
+     * @return Generated book
+     */
     private static Book createTestBook(String isbn) {
-        return new Book("title", "author", 0, isbn);
+        return new Book(DEFAULT_TITLE, DEFAULT_AUTHOR, DEFAULT_PRICE, isbn);
     }
 
     /**
