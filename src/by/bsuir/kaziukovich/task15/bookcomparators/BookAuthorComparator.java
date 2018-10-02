@@ -24,6 +24,25 @@ public class BookAuthorComparator implements Comparator<Book> {
     }
 
     /**
+     * Generates string representation of comparator
+     * @return String representation of comparator
+     */
+    @Override
+    public String toString() {
+        return getClass().getName();
+    }
+
+    /**
+     * Checks if comparator equals to specified object
+     * @param obj Object to check
+     * @return True if comparator equals to specified object, otherwise false
+     */
+    @Override
+    public boolean equals(Object obj) {
+        return (obj != null) && (getClass() == obj.getClass());
+    }
+
+    /**
      * Constructor of comparator
      */
     public BookAuthorComparator() {}

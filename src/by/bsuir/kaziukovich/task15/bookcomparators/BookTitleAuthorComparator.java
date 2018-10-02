@@ -2,6 +2,7 @@ package by.bsuir.kaziukovich.task15.bookcomparators;
 
 import by.bsuir.kaziukovich.task12.book.Book;
 import java.util.Comparator;
+import java.util.Objects;
 
 /**
  * Comparator that compares two books by title, then by author
@@ -26,6 +27,34 @@ public class BookTitleAuthorComparator implements Comparator<Book> {
         }
 
         return fullComparator.compare(book1, book2);
+    }
+
+    /**
+     * Generates string representation of comparator
+     * @return String representation of comparator
+     */
+    @Override
+    public String toString() {
+        return getClass().getName();
+    }
+
+    /**
+     * Checks if comparator equals to specified object
+     * @param obj Object to check
+     * @return True if comparator equals to specified object, otherwise false
+     */
+    @Override
+    public boolean equals(Object obj) {
+        return (obj != null) && (getClass() == obj.getClass());
+    }
+
+    /**
+     * Generates hash code of comparator
+     * @return Hash code of comparator
+     */
+    @Override
+    public int hashCode() {
+        return Objects.hash(fullComparator);
     }
 
     /**
