@@ -6,7 +6,7 @@ import java.util.regex.Pattern;
 /**
  * Class for Book representation
  */
-public class Book implements Comparable<Book> {
+public class Book implements Comparable<Book>, Cloneable {
     /**
      * Book title
      */
@@ -82,8 +82,14 @@ public class Book implements Comparable<Book> {
      * @return Copy of this object
      */
     @Override
-    protected Object clone() {
-        return new Book(title, author, price, isbn);
+    protected Object clone() throws CloneNotSupportedException {
+        Book clone = (Book) super.clone();
+
+        clone.title = title;
+        clone.author = author;
+        clone.price = price;
+        clone.isbn = isbn;
+        return clone;
     }
 
     /**
