@@ -55,6 +55,8 @@ public class Point {
      */
     @Override
     public boolean equals(Object o) {
+        Point point;
+
         if (this == o) {
             return true;
         }
@@ -63,7 +65,7 @@ public class Point {
             return false;
         }
 
-        Point point = (Point) o;
+        point = (Point) o;
         return (x == point.x) && (y == point.y);
     }
 

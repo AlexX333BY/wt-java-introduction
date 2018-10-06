@@ -85,6 +85,8 @@ public class Rectangle {
      */
     @Override
     public boolean equals(Object o) {
+        Rectangle rectangle;
+
         if (this == o) {
             return true;
         }
@@ -93,7 +95,7 @@ public class Rectangle {
             return false;
         }
 
-        Rectangle rectangle = (Rectangle) o;
+        rectangle = (Rectangle) o;
         return (height == rectangle.height) && (width == rectangle.width)
                 && Objects.equals(lowerLeftCorner, rectangle.lowerLeftCorner);
     }

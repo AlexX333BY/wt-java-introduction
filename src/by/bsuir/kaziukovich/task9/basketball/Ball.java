@@ -49,7 +49,7 @@ public final class Ball {
         }
 
         ball = (Ball) o;
-        return (ball.weight == weight) && ball.color.equals(color);
+        return (ball.weight == weight) && Objects.equals(ball.color, color);
     }
 
     /**

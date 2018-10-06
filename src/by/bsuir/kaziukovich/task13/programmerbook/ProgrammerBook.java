@@ -34,7 +34,8 @@ public class ProgrammerBook extends Book {
         }
 
         programmerBook = (ProgrammerBook) object;
-        return super.equals(object) && programmerBook.language.equals(language) && (programmerBook.level == level);
+        return super.equals(object) && Objects.equals(programmerBook.language, language)
+                && (programmerBook.level == level);
     }
 
     /**

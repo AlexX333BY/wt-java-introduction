@@ -54,7 +54,8 @@ public class Book implements Comparable<Book> {
         }
 
         book = (Book) object;
-        return title.equals(book.title) && author.equals(book.author) && (price == book.price) && isbn.equals(book.isbn);
+        return Objects.equals(book.title, title) && Objects.equals(book.author, author) && (price == book.price)
+                && Objects.equals(book.isbn, isbn);
     }
 
     /**
