@@ -7,12 +7,15 @@ import java.util.Scanner;
  */
 public class ConsoleScanner {
     /**
+     * Console scanner object
+     */
+    private static final Scanner consoleScanner = new Scanner(System.in);
+
+    /**
      * Get double value from console
      * @return First double value
      */
     public static double getDouble() {
-        Scanner consoleScanner = new Scanner(System.in);
-
         while (!consoleScanner.hasNextDouble()) {
             consoleScanner.next();
         }
@@ -37,8 +40,6 @@ public class ConsoleScanner {
      * @return First int value
      */
     public static int getInt() {
-        Scanner consoleScanner = new Scanner(System.in);
-
         while (!consoleScanner.hasNextInt()) {
             consoleScanner.next();
         }
@@ -63,7 +64,7 @@ public class ConsoleScanner {
      * @return First string
      */
     public static String getString() {
-        return new Scanner(System.in).nextLine();
+        return consoleScanner.nextLine();
     }
 
     /**
