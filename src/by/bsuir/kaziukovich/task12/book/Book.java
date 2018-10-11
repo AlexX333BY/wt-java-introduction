@@ -85,10 +85,10 @@ public class Book implements Comparable<Book>, Cloneable {
     protected Object clone() throws CloneNotSupportedException {
         Book clone = (Book) super.clone();
 
-        clone.title = title;
-        clone.author = author;
+        clone.title = new String(title);
+        clone.author = new String(author);
         clone.price = price;
-        clone.isbn = isbn;
+        clone.isbn = new String(isbn);
         return clone;
     }
 
