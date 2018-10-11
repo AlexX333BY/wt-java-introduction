@@ -16,11 +16,10 @@ public class FormulaCounter {
         double denominator = 2 + Math.abs(x - 2 * x / (1 + Math.pow(x, 2) * Math.pow(y, 2)));
         double result = numerator / denominator + x;
 
-        if (Double.isFinite(result)) {
-            return result;
-        } else {
+        if (!Double.isFinite(result)) {
             throw new ArithmeticException("Result is not a finite number");
         }
+        return result;
     }
 
     /**
